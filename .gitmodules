@@ -1,0 +1,9 @@
+[submodule "git-submodules/data-generation"]
+	path = git-submodules/data-generation
+	url = https://github.com/TWeber132/thesis-data-generation.git
+[submodule "git-submodules/inference-server"]
+	path = git-submodules/inference-server
+	url = https://github.com/TWeber132/thesis-inference-server.git
+[submodule "git-submodules/validation"]
+	path = git-submodules/validation
+	url = https://github.com/TWeber132/thesis-validation.git
